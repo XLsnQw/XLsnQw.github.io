@@ -39,7 +39,7 @@ Architecture: iphoneos-arm
 Maintainer: ExeRhythm
 Installed-Size: 216
 Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/iphoneos-arm/Batterain/batterain_1.1-1_iphoneos-arm.deb
+Filename: debs/iphoneos-arm64/Batterain/batterain_1.1-1_iphoneos-arm.deb
 Size: 25042
 MD5sum: 5e5747b0c4fbd7269c76b0a271d92e71
 SHA1: 97c93b2f57cf217ba3f12691bdaa527e279005ae
