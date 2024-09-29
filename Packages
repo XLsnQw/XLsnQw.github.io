@@ -14,38 +14,3 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Author: pkgFiles
 Name: MobileMeadow Reborn
 
-Package: com.pkgfiles.pokeboxreborn
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: pkgFiles
-Installed-Size: 648
-Depends: dev.theos.orion14, firmware (>= 15.0)
-Filename: debs/iphoneos-arm64/Pokebox/com.pkgfiles.pokeboxreborn_2.0.1_iphoneos-arm64.deb
-Size: 97524
-MD5sum: bf6c7c63e13e6402e65694cea93a4137
-SHA1: 83b960da32adfe16e5c36b7bad07c2c70e04a837
-SHA256: 125fd11f41ed90be6865bbd73d43e696e0b43ad2b30529f8aa826f9f3d35ec65
-Section: Tweaks
-Description: Pokémon style notifications!
-Author: pkgFiles
-Depiction: https://pkgfiles.github.io/depictions/?p=com.pkgfiles.pokeboxreborn
-Icon: https://raw.githubusercontent.com/pkgFiles/pkgfiles.github.io/main/assets/TweakIcons/PokeboxReborn.png
-Name: Pokébox Reborn
-Sileodepiction: https://pkgfiles.github.io/sileodepictions/com.pkgfiles.pokeboxreborn/depiction.json
-
-Package: ovh.exerhythm.batterain
-Version: 1.1-1
-Architecture: iphoneos-arm
-Maintainer: ExeRhythm
-Installed-Size: 216
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 12.2)
-Filename: debs/iphoneos-arm64/Batterain/batterain_1.1-1_iphoneos-arm.deb
-Size: 25042
-MD5sum: 5e5747b0c4fbd7269c76b0a271d92e71
-SHA1: 97c93b2f57cf217ba3f12691bdaa527e279005ae
-SHA256: 3af0b1159712458813307025268cb27ddef0d1da775fdb3f768df080e157d56e
-Section: Tweaks
-Description: An open-source tweak to color the battery icon
-Author: ExeRhythm
-Name: Batterain
-
