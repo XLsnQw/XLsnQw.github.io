@@ -1,3 +1,22 @@
+Package: byg.iosios.net.icleanerpro
+Version: 7.10.0
+Architecture: iphoneos-arm64
+Maintainer: 搬运工
+Depends: firmware (>= 4.0), findutils, apt | apt7
+Conflicts: org.altervista.exilecom.icleaner
+Replaces: org.altervista.exilecom.icleaner
+Filename: debs/iphoneos-arm64/iCleaner Pro/iCleaner Pro_7.10.0_iphoneos-arm64.deb
+Size: 1392946
+MD5sum: 62fb017cb57d546c59facc27c3c0c9be
+SHA1: ec52005a1820b63c5999837cc192790bcd3673ec
+SHA256: 8edda196b8f71700b7d6df671849926cec7a96fdc474f03e6e7a1d48ba79e120
+Section: 系统增强
+Description: The first real iOS system cleanup and management utility iOS最强的垃圾清理工具，此为官方破解版，全功能破解！有经济能力的，请支持一下大神！有问题群里反馈！
+Author: Ivano Bilenchi
+Icon: https://chinesebuilding.club/pic/cydia.png
+Name: iCleaner Pro小扫把清理垃圾工具-Rootless
+Sponsor: 搬运工
+
 Package: com.pkgfiles.mobilemeadowreborn
 Version: 1.0
 Architecture: iphoneos-arm64
