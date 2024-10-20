@@ -3,6 +3,6 @@
 echo "Cleaning..."
 
 echo "removing .DS_Store files"
-find . -name '.DS_Store' -delete
+sudo find . -name '.DS_Store' -delete
 
 echo "done."

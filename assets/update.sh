@@ -2,16 +2,16 @@
 
 echo
 
-./clean.sh
+sudo ./clean.sh
 
 echo
 echo "Rebuilding package list..."
 echo "--------------------------"
 
-rm -f Packages*
-dpkg-scanpackages -m ./debs /dev/null > Packages
-bzip2 -k Packages
-./dpkg-scanpackages -m ./debians/ /dev/null > Packages
+sudo rm -f Packages*
+sudo dpkg-scanpackages -m ./debs /dev/null > Packages
+sudo bzip2 -k Packages
+sudo ./dpkg-scanpackages -m ./debians/ /dev/null > Packages
 
 echo "--------------------------"
 echo "Done."

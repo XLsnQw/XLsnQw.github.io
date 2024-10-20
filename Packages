@@ -33,3 +33,19 @@ Description: Turn your phone into a meadow. Add flowers to your apps. Let birds 
 Author: pkgFiles
 Name: MobileMeadow Reborn
 
+Package: xlsnow.state
+Version: 4.0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: XLsnow
+Installed-Size: 8112
+Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.7000), com.rpetrich.rocketbootstrap (>= 1.0.9)
+Filename: debs/XLsnowState_4.0.1-beta1.deb
+Size: 3058558
+MD5sum: 21b64f9571d465c029f462e5d1143556
+SHA1: 156bbe6075d936ec7d74e97dc10e8f833aca814e
+SHA256: d64c50b52f33a83e59f93cfa31b242ffcc694be40ca4a1deeec1d3de8d39fad3
+Section: Tweaks
+Description: XLsnow
+Author: XLsnow
+Name: XLsnowState
+
