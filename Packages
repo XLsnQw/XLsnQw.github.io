@@ -34,16 +34,16 @@ Author: pkgFiles
 Name: MobileMeadow Reborn
 
 Package: xlsnow.state
-Version: 4.0.1-1+debug
+Version: 4.0.1-2+debug
 Architecture: iphoneos-arm
 Maintainer: XLsnow
-Installed-Size: 8112
+Installed-Size: 9052
 Depends: firmware (>= 13.0), mobilesubstrate (>= 0.9.7000), com.rpetrich.rocketbootstrap (>= 1.0.9)
-Filename: debs/XLsnowState_4.0.1-beta1.deb
-Size: 3058558
-MD5sum: 21b64f9571d465c029f462e5d1143556
-SHA1: 156bbe6075d936ec7d74e97dc10e8f833aca814e
-SHA256: d64c50b52f33a83e59f93cfa31b242ffcc694be40ca4a1deeec1d3de8d39fad3
+Filename: debs/XLsnowState_4.0.1-beta2.deb
+Size: 3110796
+MD5sum: cb97de6627bf4df72c6c3e9b510596a5
+SHA1: 0cf8371d3fc8fe8c0487b21894384a0b8481ff75
+SHA256: 484254afb9744e7f9383dfb723c2e611ae47f13981e223b55a12e68f9605d70b
 Section: Tweaks
 Description: XLsnow
 Author: XLsnow
